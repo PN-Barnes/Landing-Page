@@ -43,5 +43,13 @@ form {
     display: block;
     text-align: center;
     padding: 10px;
-    margin: 10px;
+    
+}
+
+footer {
+    background-color: hotpink;
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
 }
