@@ -22,10 +22,26 @@ figure {
     display: block;
     margin: auto;
 }
+figcaption {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
 img {
     display: block;
     margin: auto;
 }
 #contact {
     background-color: greenyellow;
+    display: block;
+    margin: auto;
+}
+#contact h2 {
+    text-align: center;
+}
+form {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
 }
